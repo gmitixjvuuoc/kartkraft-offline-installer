@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+AI for more demanding players. DLC covers all three stages of the Chess game: opening, middlegame and endgame.Opening Book is based on more than 300k grandmaster games and it takes result of each game into account.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,10 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Intel i5-4590 equivalent or greater | Intel Core i5 / Apple M1 |
+| **Memory** | 2 GB RAM | 2 GB RAM |
+| **Graphics** | NVIDIA GTX 970 / AMD 290 equivalent or greater (VR) | Metal-capable GPU |
+| **OS *** | Windows 7 SP1 or newer | Windows 7 SP1 or newer |
 
 ---
 
